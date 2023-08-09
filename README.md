@@ -8,15 +8,15 @@
 
     **2.** Generate Key Performance Indicators (KPI)
 
-     - **a.** Total Sales from all the years.
+     - Total Sales from all the years.
 
-     - **b.** Total Quantity of the products.
+     - Total Quantity of the products.
 
-     - **c.** Total Profit generate by the company from all the years.
+     - Total Profit generate by the company from all the years.
 
-     - **d.** Total Discount given to the customers.
+     - Total Discount given to the customers.
  
-     - **e.** Numbers of orders sold in mentioned years.
+     - Numbers of orders sold in mentioned years.
 
     **3.** Perform sales comparison with Segement, Category, Region, States and Year.   
 
