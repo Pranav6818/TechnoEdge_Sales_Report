@@ -31,4 +31,6 @@
 Empower businesses to monitor and evaluate their sales activities and performance.
        
 
-## _[Link to this Project](https://github.com/Pranav6818/TechnoEdge_Sales_Report/blob/main/TechnoEdge_sales_report.pdf)_
+## _[Link to Dashboard pdf](https://github.com/Pranav6818/TechnoEdge_Sales_Report/blob/main/TechnoEdge_sales_report.pdf)_
+
+
